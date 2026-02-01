@@ -2,10 +2,5 @@
 
 ## 👨‍💻 About Me
 
-Software Engineering student at Universitas Pignatelli Triputra with a passion for building innovative solutions through code.
-
-- 🌱 Currently learning and exploring new technologies
-- 💻 Love to code and solve problems
-- 🚀 Always open to collaborate on interesting projects
-- 📫 Reach me at: **[diowisnuatmawirata@gmail.com]**
+Mahasiswa S1 Rekayasa Perangkat Lunak @ Universitas Pignatelli Triputra | Fokus pada pengembangan web dengan Laravel, PHP, dan ekosistem modern (React, Node.js). Tertarik pada peluang magang atau kerja penuh waktu di bidang Web Development. Terbuka untuk kolaborasi proyek open source atau freelance.**[diowisnuatmawirata@gmail.com]**
 
