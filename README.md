@@ -15,7 +15,8 @@ Software Engineering graduate (2026) from Universitas Pignatelli Triputra.
 ## 📌 Featured Projects
 - **[Batik Marni Jaya](https://github.com/Diowisn/project-marnijayabatik)**: e-commerce for batik fabric with product management and admin dashboard · Laravel, MySQL
 - **[SPP Payment System](https://github.com/Diowisn/project-pembayaran-spp)**: per-student tuition payments, history, and periodic recap · Laravel, MySQL
-- *(add Bening Neer and SIDAMIS here)*
+- **[Bening Neer]**
+- **[Sistem Informasi Data Kemiskinan dan Kesehatan]**
 
 ## 🧭 How I Build
 Requirements (PRD, SRS) → Design (SDD, UI/UX) → Task breakdown → Implementation → Evaluation
