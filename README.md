@@ -18,8 +18,5 @@ Software Engineering graduate (2026) from Universitas Pignatelli Triputra.
 - **Bening Neer Official Store**: betta fish e-commerce with product management, cart, order flow, and admin dashboard; architecture refactored from MVC to HMVC · Laravel, MySQL, Bootstrap
 - **SIDAMIS**: information system for recording social-aid recipients and health services for underprivileged residents of Desa Bendungan, designed with Design Thinking · Laravel, React.js, MySQL
 
-## 🧭 How I Build
-Requirements (PRD, SRS) → Design (SDD, UI/UX) → Task breakdown → Implementation → Evaluation
-
 ## 📫 Contact
 [Portfolio](https://dio-dev.biz.id) · [LinkedIn](https://www.linkedin.com/in/dio-wisnu-atmawirata-093b89280) · diowisnuatmawirata@gmail.com
