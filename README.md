@@ -12,11 +12,5 @@ Software Engineering graduate (2026) from Universitas Pignatelli Triputra.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📌 Featured Projects
-- **[Batik Marni Jaya](https://github.com/Diowisn/project-marnijayabatik)**: e-commerce for batik fabric with product management and admin dashboard · Laravel, MySQL, Bootstrap
-- **[SPP Payment System](https://github.com/Diowisn/project-pembayaran-spp)**: per-student tuition payments, history, and periodic recap · Laravel, MySQL, Bootstrap
-- **Bening Neer Official Store**: betta fish e-commerce with product management, cart, order flow, and admin dashboard; architecture refactored from MVC to HMVC · Laravel, MySQL, Bootstrap
-- **SIDAMIS**: information system for recording social-aid recipients and health services for underprivileged residents of Desa Bendungan, designed with Design Thinking · Laravel, React.js, MySQL
-
 ## 📫 Contact
 [Portfolio](https://dio-dev.biz.id) · [LinkedIn](https://www.linkedin.com/in/dio-wisnu-atmawirata-093b89280) · diowisnuatmawirata@gmail.com
